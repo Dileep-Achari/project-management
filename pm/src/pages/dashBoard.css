@@ -1,0 +1,6 @@
+/* src/pages/Dashboard.css */
+.dashboard {
+    display: flex;
+    gap: 2rem;
+    padding: 2rem;
+}
